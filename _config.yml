@@ -30,8 +30,12 @@ bio: >-
   email id on the footer of this site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.snehanshu.tech" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: p_snehanshu
 github_username:  pSnehanshu
+instagram_username: p_snehanshu
+linkedin_username: snehanshu-phukon
+facebook_username: pSnehanshu
 
 google_analytics: UA-158745484-1
 
