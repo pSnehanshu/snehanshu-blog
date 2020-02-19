@@ -28,6 +28,8 @@ url: "https://www.snehanshu.tech" # the base hostname & protocol for your site, 
 twitter_username: p_snehanshu
 github_username:  pSnehanshu
 
+google_analytics: UA-158745484-1
+
 # Build settings
 theme: minima
 plugins:
