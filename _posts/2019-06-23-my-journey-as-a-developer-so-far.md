@@ -16,7 +16,7 @@ categories: [tech]
 
 My journey as a developer started when I somehow stumbled upon the following video
 
-<iframe width="667" height="382" src="https://www.youtube.com/embed/PdM2ZIG9yR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="667" height="382" style="max-width: 100%;" src="https://www.youtube.com/embed/PdM2ZIG9yR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It’s a video teaching how to make a search engine like Google. Wow! really?
 Is it possible? Nonetheless, I watched part 1 and part 2 as well. It felt good,
