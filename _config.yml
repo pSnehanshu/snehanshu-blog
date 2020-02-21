@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Snehanshu Phukon
+title: Snehanshu's blog
 email: snehanshuphukan@gmail.com
+author: Snehanshu Phukon
 description: >- # this means to ignore newlines until "baseurl:"
   Fullstack web development, software development, tutorials,
-  Thoughts, Opinions, Javascript trends, etc. This is my online canvas.
+  Thoughts, Opinions, Javascript trends.
 bio: >-
   Hello, I am Snehanshu Phukon, a fullstack web-developer. I mostly do freelancing.
   I have worked for many clients, and they all say one thing, "Snehanshu knows his job".
