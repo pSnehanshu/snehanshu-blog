@@ -1,12 +1,16 @@
 <header class="site-header" role="banner">
 
-    <div class="wrapper">
+    <div class="" style="padding: 10px;">
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
         <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
             <img src="https://www.gravatar.com/avatar/62dc7523cc4ddf6b913bbf9a230fb9b6?s=50" alt="Snehanshu">
             {{ site.title | escape }}
         </a>
+
+        <div class="top-social">
+            {% include social.html %}
+        </div>
 
         {%- if page_paths -%}
         <nav class="site-nav">
@@ -34,8 +38,34 @@
 </header>
 
 <style>
-    a.site-title:hover{
+    a.site-title:hover {
         text-decoration: none;
         color: brown;
+    }
+
+    .top-social {
+        position: fixed;
+        top: 10px;
+        left: 45%;
+        padding: 5px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border: solid 1px #ccc;
+        border-radius: 5px;
+        opacity: 0.6;
+    }
+
+    .top-social:hover {
+        opacity: 1;
+    }
+
+    @media screen and (max-width: 600px) {
+        .top-social {
+            top: unset;
+            left: unset;
+            bottom: 0px;
+            right: 0px;
+            opacity: 1;
+            border-radius: 0px;
+        }
     }
 </style>
