@@ -32,7 +32,7 @@ that all my friends knew. It is not that I haven’t encountered the internet be
 computer lab had an internet connection, but we only got to use that occasionally. With the
 mobile phone, it was the first time that I had the freedom to explore the internet on my own.
 
-[![Nokia 2760]({{ site.baseurl }}/assets/post-images/nokia-foldable-phone.jpeg)](http://nokiamuseum.info/)
+![Nokia 2760](/assets/post-images/nokia-foldable-phone.jpeg)
 
 Then I discovered Wapka.mobi, it was a website where one can make a website from their mobile phone.
 It was free and cool. It might not be cool by today’s standards, but back then it was amazing.

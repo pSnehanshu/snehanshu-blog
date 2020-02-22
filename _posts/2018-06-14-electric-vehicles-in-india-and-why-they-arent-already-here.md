@@ -6,7 +6,7 @@ categories: [electric-vehicles, tech]
 
 > Originally posted on [Medium.com](https://medium.com/@snehanshuphukon/electric-vehicles-in-india-and-why-they-arent-already-here-16194bbcbc53)
 
-![An Electric vehicle with a charging station]({{ site.baseurl }}/assets/post-images/ev-green.jpeg)
+![An Electric vehicle with a charging station](/assets/post-images/ev-green.jpeg)
 
 Electric Vehicles, or EV for short are not yet a craze, even though the government is pushing more and more of it. But why the govt is promoting them? The reasons are plain simple, they are Eco-friendly, costs less per mile, requires less maintenance (as they mostly consist of simple motors), and reduces the dependency of India on imported crude oil, which with the continuous weakening of rupee against dollar is yet another problem. Given the long list of benefits, then why are not they widespread yet? Lets find out…
 
