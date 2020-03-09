@@ -12,7 +12,7 @@ categories: [tech]
 > how simple Digital Ocean is and how innovative ZEIT Now is.
 > Currently I am doing freelance work as well as pursuing my graduation.
 > If you think I can help you in anyway, please don’t hesitate to let me know.
-> You can reach me via my email id snehanshuphukan@gmail.com
+> You can reach me via my email id [{{ site.email }}](mailto:{{ site.email }})
 
 My journey as a developer started when I somehow stumbled upon the following video
 
