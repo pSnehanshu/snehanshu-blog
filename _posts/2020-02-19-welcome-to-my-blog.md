@@ -5,7 +5,7 @@ categories: [general]
 ---
 
 This is Snehanshu, I am a fullstack web-developer. I mostly do freelacing for a living.
-Read more about me [here](/about/).
+Read more about me [here](/).
 
 I have created this blog to write about things that I am interested in, it is mostly tech
 and web, but sometimes, it may be about travel, or languages, or movies etc.
