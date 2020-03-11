@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Svelte, the framework without any framework"
+title:  "Svelte, the framework without any framework - A basic tutorial"
 categories: [tech, web]
 tags: [svelte, spa, frontend, javascript, react, vue]
 ---
