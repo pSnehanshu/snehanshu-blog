@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Snehanshu Phukon]({{ site.baseurl }}/assets/snehanshu-selfie-lachung.jpg)
+
+![Snehanshu Phukon](/assets/snehanshu-selfie-lachung.jpg)
 
 Hello world, I am Snehanshu Phukon. I am a fullstack web-developer.
 I mostly do freelancing. I have worked for many interesting clients and all
