@@ -23,4 +23,29 @@ and execute before rendering the page is significantly less, resulting in better
 
 # How to install it?
 
+* First you will need Node.js.
+    * Check if you already have Node.js installed by running this command
+```bash
+$ node --version
+```
+    * If error occurs, find appropriate instructions for installing Node.js based on your OS [here](https://nodejs.org/en/download/).
+* Next run the following command to get the Svelte project template
+```bash
+$ npx degit sveltejs/template my-svelte-project
+```
+* Then switch to the project directory
+```bash
+$ cd my-svelte-project
+```
+* Install all the dependencies from NPM
+```bash
+$ npm install
+```
+* Test the project in your browser
+```bash
+$ npm run dev
+```
+* Open [http://localhost:5000](http://localhost:5000) in your browser and you should see the following
+![Svelte initial screen](/assets/svelte-tutorial/initial-installation.png)
 
+Now that you have Svelte running, let's see how to use it.
