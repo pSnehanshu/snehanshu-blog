@@ -3,6 +3,8 @@ layout: post
 title:  "What is Open Charge Point Protocol?"
 categories: [electric-vehicles, ocpp]
 ---
+![OCPP illustration](/assets/post-images/ocpp/ocpp.svg)
+
 The [Electric Vehicle]({% post_url 2018-06-14-electric-vehicles-in-india-and-why-they-arent-already-here %}), or EV for short, are the new kind of vehicles that will slowly phase out the tradtional pertrol and diesel based vehicles. The pros are immense - environment friendly, low maintanance cost, low sound pollution etc. The only major con is the availability of public charging points. Although this is improving with every passing day, there is still a long time before an average buyer will become confident enough to choose EV over a traditional vehicle.
 
 Traditional petrol pumps are very simple, there are human operated machines that fill the tank of the vehicles, other than showing the amount of fuel filled and the cost, it doesn't has any functionality. But EV charging points were designed to be smart from the beginning. Features such as card based authentication, remote control by charge point operator, remote configuration, smart grid based charging are very common.
@@ -46,3 +48,7 @@ Websocket is an advanced protocol that works on top of [HTTP](https://developer.
 Therefore websocket was invented. Here, the client still needs to initiate the connection and do the handshake, but once that's done, a two-way tunnel is created in which data can flow in both directions independently. The client can send messages to the server and the server too can send messages to the client.
 
 Coupled with JSON, it becomes the perfect solution for OCPP, where the charge points act as clients and initiate the connection, and the backend acts as the server. No need to worry now, put as many as chargers you need behind that router, websocket got you covered!
+
+---
+
+That's all for this post. I will write about the technical details on how OCPP with JSON-over-Websockets functions, and I will also post some code examples about how to implement OCPP using Node.js in the next post. So stay tuned!
