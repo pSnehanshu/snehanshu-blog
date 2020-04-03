@@ -11,7 +11,7 @@ Traditional petrol pumps are very simple, there are human operated machines that
 
 With this feature set, there comes a problem, the charge points are tightly coupled with the backends (dashboards that operators use to remotely control the charge points) due to proprietary protocols. This means, if an operator buys a dashboard, then he can install charge points of only those brands which the backend supports. This is a problem. To solve this issue, there needs to be a standard protocol, which has to be open sourced, and must be followed by backend vendors and charge point vendors to enable interoperability. That's OCPP.
 
-OCPP or [Open Charge Point Protocol](https://www.openchargealliance.org/protocols/ocpp-16/) is a protocol that was designed by [ElaadNL](https://www.elaad.nl/) as a standard for communication between a charging point and the backend software.
+OCPP or [Open Charge Point Protocol](https://www.openchargealliance.org/protocols/ocpp-16/) is a protocol that was designed by [Open Charge Alliance](https://www.openchargealliance.org/) as a standard for communication between a charging point and the backend software.
 
 ## Versions of OCPP
 
