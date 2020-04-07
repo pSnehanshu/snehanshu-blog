@@ -14,12 +14,12 @@ a Single Page Application.
 # How is it different?
 
 Well, with frontend frameworks like React, your final application will have the framework's code and code written by you. This is because these frameworks do most of their job in the
-browser, so even a simple application can become huge in size. Apart from increasing download time, it will also increase the time the browser takes to render the page because it has to first execute the framework's code. In mobile devices, it can easily degrade user experience.
+browser, so even a simple application can become huge. Apart from increasing download time, it will also increase the time the browser takes to render the page because it has to first execute the framework's code. In mobile devices, it can easily degrade the user experience.
 
 But with Svelte, most of the framework's jobs are taken care of during the build step,
 and so it outputs pure vanilla JavaScript. Apart from a few utility functions, the final
 application has very little Svelte code. Due to this, the code the browser has to download
-and execute before rendering the page is significantly less, resulting in better user experience.
+and execute before rendering the page is significantly less, resulting in a better user experience.
 
 In short, Svelte is a compiler that generates JavaScript, while React and Vue are JavaScript code themselves.
 
@@ -54,7 +54,7 @@ Now that you have Svelte running, let's see how to use it.
 
 # How to use it?
 
-Svelte is based upon components system. Modern web applications are complex, so dividing them into components
+Svelte is based upon the components system. Modern web applications are complex, so dividing them into components
 makes sense. This way a developer can focus on a single functionality at a time which increases developer efficiency
 and it also makes the code reusable. Imagine you build a comment box component, now you can use it over and over
 in different places of your application without copy-pasting the code.
@@ -108,7 +108,7 @@ p {
 
 ![Name changes on clicking the button](/assets/post-images/svelte-tutorial/Screencast-2020-03-11-164019.gif)
 
-Let's instead of changing to "Ashish" everytime, let's take that as a input from user using a input text box.
+Let's instead of changing to "Ashish" every time, let's take that as an input from the user using an input text box.
 First, we will need to define another variable `inputName` to keep the temporary text typed into the text box.
 Then on clicking the button, we will just do `name = inputName`.
 
@@ -140,7 +140,7 @@ p {
 ![Change name from input](/assets/post-images/svelte-tutorial/Screencast-2020-03-11-165008(1).gif)
 
 Instead of changing the name on clicking the button, we can directly change the name from the
-text box itself. Instead on binding it to `inputName`, directly bind it to `name`. Now we neither
+text box itself. Instead of binding it to `inputName`, directly bind it to `name`. Now we neither
 need the `inputName` variable, the `changeName` function, nor the button.
 
 
@@ -181,7 +181,7 @@ We have the following data, it is a list of websites with their founder's name.
 }
 ```
 
-We will take website name as input from a text box, and then show the founder's name.
+We will take a website name as input from a text box, and then show the founder's name.
 If the website doesn't exist in our list, we will show that we don't know the founder.
 
 
@@ -258,7 +258,7 @@ let website = '';
 ```
 ![](/assets/post-images/svelte-tutorial/Screenshot from 2020-03-11 17-31-06.png)
 
-Now that we have the knowledge of basic Svelte, I would insist you to head over to
-the official tutorial to learn the rest of Svelte.
+Now that we know basic Svelte, I would insist you head over to
+the [official tutorial](https://svelte.dev/tutorial) to learn the rest of Svelte.
 
 Thanks for your time.

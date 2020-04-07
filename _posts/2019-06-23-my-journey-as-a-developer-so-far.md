@@ -7,11 +7,11 @@ categories: [tech]
 
 > Hello world! Greetings. First of all, let me introduce myself to you.
 > I am Snehanshu Phukon. I am a software developer based in India.
-> My work mostly consists of web applications built in Node.js, Python and PHP.
-> I also take keen interest in devOps. I love how extensive AWS is,
+> My work mostly consists of web applications built in Node.js, Python, and PHP.
+> I also take a keen interest in DevOps. I love how extensive AWS is,
 > how simple Digital Ocean is and how innovative ZEIT Now is.
 > Currently I am doing freelance work as well as pursuing my graduation.
-> If you think I can help you in anyway, please don’t hesitate to let me know.
+> If you think I can help you in any way, please don’t hesitate to let me know.
 > You can reach me via my email id [{{ site.email }}](mailto:{{ site.email }})
 
 My journey as a developer started when I somehow stumbled upon the following video
@@ -43,8 +43,8 @@ I started frequently visiting our school’s computer lab, whenever I got a chan
 Once, one of my friends told me that we can make websites using HTML. Soon I borrowed
 books on HTML from our school library. Then I borrowed more HTML books, but the real
 learning started when I borrowed a book on [VBScript](https://en.wikipedia.org/wiki/VBScript).
-It is now an outdated language, but it is from where I actually got some idea about programming.
-When my code actually worked on the computer, I felt a kind of satisfaction similar to
+It is now an outdated language, but it is from where I got some idea about programming.
+When my code worked on the computer, I felt a kind of satisfaction similar to
 the feeling you get when you finally get to drink water after being thirsty for a long time.
 
 Once I and my friend (he was also interested in coding) wanted to build something.
@@ -58,7 +58,7 @@ make a search engine. It really fuelled me. I watched a couple more of those. I 
 to master a programming language. Then came my life’s first big decision, whether I should go
 with PHP or with ASP. I guess most of the developers must have made the same decision in their
 beginning days. After going through a lot of articles, I decided to go with PHP. It was the right
-decision which with coming time proved to be even truer. Throughout the holidays, I just learned
+decision which with the coming time proved to be even truer. Throughout the holidays, I just learned
 and learned about HTML, CSS, JavaScript, PHP, SQL. [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg),
 [MrNickFrosty](https://www.youtube.com/user/MrNickfrosty) and [Bucky Roberts (thenewboston)](https://www.youtube.com/user/thenewboston)
 were the tutors from whom I learned the most.
@@ -74,16 +74,16 @@ the CS category. I built a library management system in PHP. It took me exactly 
 the help of my friend. Good for me, I won the local/cluster level and the regional level. But I lost the
 national level. No problem, at least I got that far. I was proud.
 
-The next year, I again competed in the exhibition. But this time I felt too lazy, so competed with the same project. This time also,
+The next year, I again competed in the exhibition. But this time I felt too lazy, so I competed with the same project. This time also,
 the same as last year, won the local/cluster level and the regional level but lost the national level.
 
 Funnily enough, the following year, I gave the project to my junior and he too won the local/cluster level and the regional level but
 lost the national level. I guess people at the national level are making better projects than me.
 
-A new event happened, I got a laptop. Yeah, until now, I didn’t have a computer and all the coding I ever did was on school computers. With my own sword, I fought more battles and improved every time.
+A new event happened, I got a laptop. Yeah, until now, I didn’t have a computer and all the coding I ever did was on school computers. With my sword, I fought more battles and improved every time.
 (P.S. It’s the same laptop I’m currently writing this article from)
 
-I will not explain all my following project extensively, but just briefly mention them.
+I will not explain all my following projects extensively, but just briefly mention them.
 
 * **RexBoard**: An online multi-player board gaming website.
 * **HostBrowser**: A PHP based file manager.
@@ -106,7 +106,7 @@ Keras and much more.
 I am currently doing an internship at [NewMotion](https://newmotion.com/en) under the guidance of Andrew Han, sales executive at NewMotion.
 It is a work-from-home internship. My job is to build a charge point simulator using the OCPP protocol so that
 they can do some analysis on their backend. He reached out to me through LinkedIn after he found some
-electric-vehicle related project on my [GitHub profile](https://github.com/pSnehanshu/OCPP-J-CP-Simulator).
+electric-vehicle related projects on my [GitHub profile](https://github.com/pSnehanshu/OCPP-J-CP-Simulator).
 
 Recently I have decided to do freelancing. I have created my freelancer profile on some of the platforms.
 I hope to be doing some projects in this way. If I get paid for something that I love to do, then there’s
