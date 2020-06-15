@@ -6,9 +6,9 @@ layout: home
 ---
 
 <!-- About -->
-![Snehanshu Phukon](/assets/snehanshu-selfie-lachung.jpg)
+# Hello world!
 
-Hello world, I am Snehanshu Phukon. I am a fullstack web-developer.
+I am Snehanshu Phukon, a fullstack web-developer and a computer science student.
 I mostly do freelancing. I have worked for many interesting clients and all
 of them have one thing to say, "Snehanshu knows his job".
 
