@@ -2,6 +2,8 @@
 layout: post
 title:  "Electric vehicles in India, and why they aren’t already here?"
 categories: [electric-vehicles, tech]
+img: alternative-auto-automobile-battery-110844.jpg
+fig-caption: Photo by Mike from Pexels
 ---
 
 > Originally posted on [Medium.com](https://medium.com/@snehanshuphukon/electric-vehicles-in-india-and-why-they-arent-already-here-16194bbcbc53)

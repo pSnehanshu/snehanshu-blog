@@ -2,6 +2,8 @@
 layout: post
 title:  "My journey as a developer so far…"
 categories: [tech]
+img: gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
+fig-caption: Photo by Negative Space from Pexels
 ---
 > Originally posted on [Medium.com](https://medium.com/@snehanshuphukon/my-journey-as-a-developer-so-far-24d333028f7d)
 
