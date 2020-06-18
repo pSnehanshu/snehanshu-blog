@@ -2,6 +2,8 @@
 layout: post
 title:  "What is Open Charge Point Protocol?"
 categories: [electric-vehicles, ocpp]
+img: white-car-charging-3846205.jpg
+fig-caption: Photo by Rathaphon Nanthapreecha from Pexels
 ---
 ![OCPP illustration](/assets/post-images/ocpp/ocpp.svg)
 

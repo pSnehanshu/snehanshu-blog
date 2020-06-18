@@ -2,6 +2,8 @@
 layout: post
 title:  "Finally committed to writing, welcome to my new blog"
 categories: [general]
+img: coffee-notebook-writing-computer-34601.jpg
+fig-caption: Photo by Negative Space from Pexels
 ---
 
 Hello world, I am Snehanshu Phukon, a fullstack web developer, trying to get some of your attention. As it turns out, attention is money, why not snatch a piece of it? LOL, just kidding. Anyway, I have been thinking about writing for so long, not because I like it, but because I feel like it is a necessity in today's world. More content is being created now than ever before, so here am I, contributing a few drops of my water to this magnificent ocean of content.
