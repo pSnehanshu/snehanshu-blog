@@ -1,68 +1,35 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Snehanshu's blog
-email: hello@snehanshu.tech
-author: Snehanshu Phukon
-description: >- # this means to ignore newlines until "baseurl:"
+description: >
   Fullstack web development, software development, tutorials,
   Thoughts, Opinions, Javascript trends.
-bio: >-
-  Hello, I am Snehanshu Phukon, a fullstack web-developer. I mostly do freelancing.
-  I have worked for many clients, and they all say one thing, "Snehanshu knows his job".
-  Do you have any project that you want me to work on? Shoot me an email, you can find my
-  email id on the footer of this site.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.snehanshu.tech" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://www.snehansu.tech"
+site-twitter: p_snehanshu
 
-twitter_username: p_snehanshu
-github_username:  pSnehanshu
-instagram_username: p_snehanshu
-linkedin_username: snehanshu-phukon
-devto_username: psnehanshu
+# Author Settings
+author: Snehanshu Phukon
+author-img: sp-dp.jpg
+about-author: A fullstack web developer, working remotely.
+social-twitter: p_snehanshu
+social-facebook: pSnehanshu
+social-github: pSnehanshu
+social-linkedin: snehanshu-phukon
+social-email: hello@snehanshu.tech
 
-google_analytics: UA-158745484-1
+# Disqus
+discus-identifier: snehanshu-tech
 
-# Build settings
-theme: minima
+# Tracker
+analytics: UA-158745484-1
+
+# Build Settings
+markdown: kramdown
 plugins:
-  - jekyll-feed
-disqus:
-  shortname: snehanshu-tech
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
