@@ -911,6 +911,21 @@ table tfoot td {
   clear: both;
 }
 
+.page-menu {
+  list-style-type: none;
+  text-align: center;
+  padding-left: 0px;
+}
+
+.page-menu a {
+  color: #263959;
+  text-decoration: none;
+}
+
+.page-menu a:hover {
+  text-decoration: underline;
+}
+
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 .sidebar {
   display: -webkit-box;

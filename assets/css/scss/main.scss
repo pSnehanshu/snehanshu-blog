@@ -136,6 +136,10 @@ table tfoot td {
   clear: both;
 }
 
+.page-menu {
+  list-style-type: none;
+}
+
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import 'parts/home-page';
 
