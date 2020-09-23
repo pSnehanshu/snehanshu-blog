@@ -176,7 +176,7 @@ We have the following data, it is a list of websites with their founder's name.
   "facebook.com": "Mark Zuckerberg",
   "google.com": "Larry Page",
   "paypal.com": "Peter Thiel",
-  "snehanshu.tech": "Snehanshu Phukon",
+  "snehanshu.com": "Snehanshu Phukon",
   "ma.tt": "Matt Mullenweg",
   "paytm.com": "Vijay Shekhar Sharma"
 }
@@ -192,7 +192,7 @@ const data = {
   "facebook.com": "Mark Zuckerberg",
   "google.com": "Larry Page",
   "paypal.com": "Peter Thiel",
-  "snehanshu.tech": "Snehanshu Phukon",
+  "snehanshu.com": "Snehanshu Phukon",
   "ma.tt": "Matt Mullenweg",
   "paytm.com": "Vijay Shekhar Sharma"
 };
@@ -228,7 +228,7 @@ Let's take a look at loops, we have a list of websites like this
   "facebook.com",
   "google.com",
   "paypal.com",
-  "snehanshu.tech",
+  "snehanshu.com",
   "ma.tt",
   "paytm.com"
 ]
@@ -242,7 +242,7 @@ const websites = [
   "facebook.com",
   "google.com",
   "paypal.com",
-  "snehanshu.tech",
+  "snehanshu.com",
   "ma.tt",
   "paytm.com"
 ];

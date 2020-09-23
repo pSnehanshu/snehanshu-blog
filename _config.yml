@@ -3,7 +3,7 @@ description: >
   Fullstack web development, software development, tutorials,
   Thoughts, Opinions, Javascript trends.
 baseurl: ""
-url: "https://www.snehansu.tech"
+url: "https://www.snehansu.com"
 site-twitter: p_snehanshu
 
 # Author Settings
@@ -14,7 +14,7 @@ social-twitter: p_snehanshu
 social-facebook: pSnehanshu
 social-github: pSnehanshu
 social-linkedin: snehanshu-phukon
-email: hello@snehanshu.tech
+email: hello@snehanshu.com
 
 # Disqus
 discus-identifier: snehanshu-tech
