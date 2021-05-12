@@ -70,23 +70,3 @@ layout: default
 <div class="content-box clearfix">
   {{ content }}
 </div>
-<script src="https://crustyapp.herokuapp.com/site.js"></script>
-<script>
-  typeof window.CRUSTY_INIT === 'function'
-    ? window.CRUSTY_INIT('snehanshu.com', {
-        right: '-70px',
-        top: '50%',
-        transform: 'rotateZ(-90deg)',
-        paddingTop: '1rem',
-        paddingBottom: '1rem',
-        paddingLeft: '2rem',
-        paddingRight: '2rem',
-        fontSize: '20px',
-        fontFamily: 'monospace',
-        border: 0,
-        cursor: 'pointer',
-        backgroundColor: 'rgba(0,142,0,0.8)',
-        color: 'white',
-      })
-    : console.error('Crusty script is not loaded');
-</script>
