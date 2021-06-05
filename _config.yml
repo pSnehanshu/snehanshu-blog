@@ -1,0 +1,35 @@
+title: Snehanshu's blog
+description: >
+  Fullstack web development, software development, tutorials,
+  Thoughts, Opinions, Javascript trends.
+baseurl: ""
+url: "https://snehansu.com"
+site-twitter: p_snehanshu
+
+# Author Settings
+author: Snehanshu "Paul" Phukon
+author-img: sp-dp.jpg
+about-author: A fullstack web developer, working remotely.
+social-twitter: p_snehanshu
+social-facebook: pSnehanshu
+social-github: pSnehanshu
+social-linkedin: snehanshu-phukon
+email: hello@snehanshu.com
+
+# Disqus
+discus-identifier: snehanshu-tech
+
+# Tracker
+analytics: UA-158745484-1
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
