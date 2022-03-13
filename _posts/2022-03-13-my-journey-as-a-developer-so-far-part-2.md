@@ -2,8 +2,8 @@
 layout: post
 title: "My journey as a developer so far - Part 2"
 categories: [tech, personal]
-img: pexels-cottonbro-4065876.jpg
-fig-caption: Photo by cottonbro from Pexels
+img: pexels-sharefaith-1248418.jpg
+fig-caption: Photo by Sharefaith from Pexels
 ---
 
 I ended my [previous post]({% post_url 2019-06-23-my-journey-as-a-developer-so-far %}) by mentioning that I got to work at a company on a contract basis, and I had created accounts in several freelancing websites and that I am hoping for the best. Well, in this post, I will cover what happened after that and where I am today. The goal for this post is that when I read this in the future, I will be able to see how far I have progressed in life and what should be the next step going forward.

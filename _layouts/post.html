@@ -9,7 +9,9 @@ layout: main
       <figure>
         <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl |
         append : page.img}} alt="{{page.title}}"> {% if page.fig-caption %}
-        <figcaption>{{page.fig-caption}}</figcaption>
+        <figcaption style="text-shadow: 2px 1px 1px #999">
+          {{page.fig-caption}}
+        </figcaption>
         {% endif %}
       </figure>
     </div>
